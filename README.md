@@ -1,4 +1,5 @@
 # Supplementary_Figure
+DOI: 10.5281/zenodo.4305003
 
 Sadegh Faramarzi
 
